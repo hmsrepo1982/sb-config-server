@@ -1,0 +1,8 @@
+my:
+    greeting: Hello. This is sb config server
+    list:
+        values: HMS, MSH, HMSMSH
+db:
+    connection: connect String
+    host:
+    port:
