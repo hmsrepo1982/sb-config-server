@@ -1,7 +1,7 @@
 my:
     greeting: Hello. This is sb config server
     list:
-        values: HMS, MSH, HMSMSH
+        values: HMS, MSH, HMSMSH, ADDED NEW VALUE
 db:
     connection: connect String
     host:
