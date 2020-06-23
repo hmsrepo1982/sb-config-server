@@ -1,0 +1,4 @@
+DIGErrorHandling:
+  flag:true
+  retry:3
+  intervalInSec:30
